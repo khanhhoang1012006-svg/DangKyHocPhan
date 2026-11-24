@@ -98,4 +98,3 @@ RegistrationCancelled:
 Các sự kiện được gửi tới:
 - Notification Service.
 - Audit Worker.
-```

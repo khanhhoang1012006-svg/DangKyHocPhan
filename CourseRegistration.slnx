@@ -1,2 +1,5 @@
 <Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Registration.Api/Registration.Api.csproj" />
+  </Folder>
 </Solution>
